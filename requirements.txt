@@ -1,5 +1,0 @@
-pyodbc
-pandas
-matplotlib
-scikit-learn==1.8.0
-joblib
