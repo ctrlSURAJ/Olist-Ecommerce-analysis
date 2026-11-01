@@ -1,0 +1,15 @@
+{
+ "orders": 99441.0,
+ "unique_customers": 96096.0,
+ "gmv": 15865616.520000001,
+ "product_revenue": 13496408.43,
+ "freight_revenue": 2241259.09,
+ "avg_order_value": 159.8563571628471,
+ "avg_review": 4.156186520855942,
+ "low_review_pct": 12.80052592036063,
+ "late_pct": 6.7730900798175595,
+ "avg_delivery_days": 12.558173646560588,
+ "cancel_pct": 0.6285133898492574,
+ "repeat_pct": 3.1187562437562435,
+ "active_sellers": 3056.0
+}

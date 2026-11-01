@@ -1,0 +1,36 @@
+{
+ "orders_used": 95746,
+ "train_rows": 76596,
+ "test_rows": 19150,
+ "satisfied_rate": 0.7892235706974704,
+ "baseline_accuracy": 0.7892235706974704,
+ "accuracy": 0.7562402088772846,
+ "auc": 0.7068528112673382,
+ "precision_satisfied": 0.8585747631470548,
+ "recall_satisfied": 0.8274447532089454,
+ "f1_satisfied": 0.842722371967655,
+ "recall_unsatisfied": 0.489593657086224,
+ "precision_unsatisfied": 0.43106457242582896,
+ "confusion_matrix": [
+  [
+   1976,
+   2060
+  ],
+  [
+   2608,
+   12506
+  ]
+ ],
+ "top_states": [
+  "SP",
+  "RJ",
+  "MG",
+  "RS",
+  "PR",
+  "SC",
+  "BA",
+  "DF",
+  "ES",
+  "GO"
+ ]
+}
