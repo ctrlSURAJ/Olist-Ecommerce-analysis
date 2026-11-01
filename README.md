@@ -41,6 +41,6 @@ PRP Cohort 4, Project 1. Analysis of 99,441 orders (Sep 2016 to Oct 2018, comple
 
 ## Links (fill in)
 - Power BI dashboards: _paste link_  (user ID: _paste_, password: _paste_)
-- Web app: _paste link_  (user ID: _paste_, password: _paste_)
-- GitHub repository: _paste link_
+- Web app: [_paste link_ ](https://olist-suraj.streamlit.app/) (user ID: olist, password: olist@2026)
+- GitHub repository: https://github.com/ctrlSURAJ/Olist-Ecommerce-analysis
 - Google Drive: _paste link_
