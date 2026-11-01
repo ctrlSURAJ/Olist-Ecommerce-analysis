@@ -1,5 +1,6 @@
-pyodbc
-pandas
-matplotlib
-scikit-learn==1.8.0
-joblib
+   streamlit>=1.50
+   pandas
+   numpy
+   plotly
+   scikit-learn==1.8.0
+   joblib
