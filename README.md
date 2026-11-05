@@ -40,7 +40,7 @@ PRP Cohort 4, Project 1. Analysis of 99,441 orders (Sep 2016 to Oct 2018, comple
 **Predictive model:** logistic regression predicting a 4 or 5 star review for a delivered order (AUC 0.71, accuracy 76%). It catches about 49% of unhappy orders; always guessing "satisfied" would score 79% accuracy, so it is a triage tool, not a precise predictor.
 
 ## Links (fill in)
-- Power BI dashboards: _paste link_  (user ID: _paste_, password: _paste_)
+- Power BI dashboards
 - Web app: (https://olist-suraj.streamlit.app/) (user ID: olist, password: olist@2026)
 - GitHub repository: https://github.com/ctrlSURAJ/Olist-Ecommerce-analysis
 - Google Drive: _paste link_
